@@ -18,5 +18,5 @@ I'm passionate about **C++, Data Structures, and Machine Learning & Python**.
 ![Rishi's GitHub stats](https://github-readme-stats.vercel.app/api?username=Rishi-RMIT&show_icons=true&theme=dark)  
 
 ## 📫 Connect with Me  
-- 📧 [Email](rishiverma.aus@gmail.com)
+- 📧 [Email](rishiverma.aus@gmail.com) : rishiverma.aus@gmail.com
 - 💼 [LinkedIn](https://www.linkedin.com/in/rishi-verma-australia/)  
