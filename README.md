@@ -1,5 +1,4 @@
 # Hi, I'm Rishi! 👋  
-Below is a summary of my profile &amp; projects
 
 I'm an international student in Australia, currently studying Advanced Computer Science.  
 I'm passionate about **C++, Data Structures, and Machine Learning & Python**.  
