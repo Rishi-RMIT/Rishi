@@ -12,7 +12,7 @@ I'm passionate about **C++, Data Structures, and Machine Learning & Python**.
 - 📊 Machine Learning & Data Analytics  
 
 ## 🌟 Featured Projects
-- 🏗 **[Minecraft Maze Generator in C++]**  
+- 🏗 [(NavigationNation) - Minecraft Maze Generator in C++](https://github.com/Rishi-RMIT/navigationnations-public)
 
 ## 📊 GitHub Stats
 ![Rishi's GitHub stats](https://github-readme-stats.vercel.app/api?username=Rishi-RMIT&show_icons=true&theme=dark)  
